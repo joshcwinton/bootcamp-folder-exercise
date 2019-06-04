@@ -1,3 +1,10 @@
+Folder exercise for TTP Bootcamp
+
+*Click `toggle` to hide folder*
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
